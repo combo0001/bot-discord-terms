@@ -56,3 +56,41 @@
 #### 4.6 - Não obstante outras disposições contidas nestes Termos de Uso, os Serviços estão disponíveis para seu uso por um período que começa a partir da adição do sistema ao seu Servidor.
 
 #### 4.7 - Você não deve tentar nem apoiar as tentativas de terceiros para driblar, reverter a engenharia, decodificar, descompilar, desmontar, fraudar ou interferir de qualquer forma com aspectos dos Serviços. Você não deve distribuir, intercambiar, modificar, vender, revender ou retransmitir a qualquer pessoa qualquer parte dos Serviços, incluindo, mas não se limitando, a qualquer texto, imagem ou áudio, para qualquer finalidade empresarial comercial ou pública. Você concorda em não copiar, vender, distribuir ou transferir o Conteúdo e/ou Serviços de Combo's System.
+
+## 5. Pagamento
+
+#### 5.1 - Você concorda em efetuar o pagamento pelo Plano de Serviços contratado que não seja disponibilizado de forma gratuita pelo Combo's System.
+
+#### 5.2 - Direito de alterar os preços. O Combo's System reserva o direito de alterar os preços publicados e ofertados, sem aviso prévio.
+
+#### 5.3 Política de reembolso. Em até 7 (sete) dias após a compra do plano de serviços, em caso de desistência da contratação, você pode solicitar o cancelamento. Neste caso, o reembolso será realizado pelo Combo's System através do reembolso da transferência enviada, e para isso você precisará possuir o comprovante de sua compra, o tempo após a solicitação do reembolso, se dentro das exigências é de até 60 (sessenta) dias. Nenhum pagamento será reembolsável quando solicitado após 7 (sete) dias da data de compra do plano de serviços.
+
+#### 5.4 - Renovação: A aplicação Combo's System notificará os responsáveis do Servidor (“responsáveis” são todos que estiverem com o *Role* configurado na aplicação para ser identificado como Staff do Servidor) nos últimos 3 dias de duração do seu plano, além de informado na compra do plano, a data de expiração do mesmo. Com essa data de expiração em mente, você deve abrir um ticket em nosso Servidor: Combo's Store (responsável pela venda dos serviços privados do sistema), para solicitar a renovação. Fica a cargo e responsabilidade total dos responsáveis do Servidor, renovar seu plano do nosso sistema.
+
+#### 5.5 - Exceto disposição em contrário nestes Termos de Uso, nenhuma mensalidade, taxa ou despesa será reembolsável.
+
+## 6. Garantias e Responsabilidades
+
+#### 6.1 - Isenção de Garantias. Você usa o nosso sistema a seu próprio e exclusivo risco. Ele é oferecido a você “como é” e “como está disponível”. Nós nos isentamos de garantias e condições de qualquer tipo, sejam expressas, implícitas ou instituídas, incluindo mas não se limitando a garantias relacionadas à segurança, confiabilidade, conveniência e performance do sistema. Bem como por qualquer informação ou conselho recebido através de quaisquer links exibidos em nosso sistema. Além disso, nenhum conselho ou informação, seja oral ou escrita, obtida de você por nós, deve criar nenhum tipo de garantia.
+
+#### 6.2 - Suposição de Risco. Você entende e concorda que ao fazer download ou obter qualquer outra forma de acesso ao nosso material ou dados através do uso de nosso sistema ao seu próprio critério e risco e que você será o único responsável por quaisquer danos ao seu computador ou perda de dados que resulte do download deste material ou dados.
+
+## 7. Indenização
+
+#### 7.1 - Você concorda em defender, indenizar e proteger a Combo's Store (responsável pelo Combo's System), sua equipe contra toda e qualquer reclamação, perda, dano, responsabilização, julgamento, avaliação, multa, custo e outras despesas, incluindo honorários advocatícios, resultantes ou relacionados ao uso feito por você dos Serviços ou de qualquer violação dos Termos de Uso, uso do sistema, Suas Informações, violação de qualquer lei, estatuto, ordem ou regulamento ou direitos de terceiros e concorda em reembolsar a Combo's Store por quaisquer perdas, custos e despesas em que ela incorra por consequência disso.
+
+## 8. Rescisão
+
+#### 8.1 O Combo's System reserva-se o direito de rescindir o seu plano de Serviços e/ou o seu acesso aos Serviços por violação dos Termos de Uso. Caso a sua inscrição e contratação dos Serviços sejam rescindidas, nenhum pagamento, mensalidade, taxa ou despesa será reembolsável.
+
+## 9. Proibição de Revenda
+
+#### 9.1 - Você concorda em não reproduzir, duplicar, copiar, vender, revender ou explorar com quaisquer fins comerciais, qualquer porção do Combo's System, nem fazer uso do sistema ou do acesso esta para o fim de vendas de bens ou serviços.
+
+## 10. Disposições Gerais
+
+#### 10.1 - Estes Termos de Uso, constituem o acordo integral entre as Partes com relação ao objeto em questão, e substituem todos os acordos anteriores, escritos ou verbais.
+
+#### 10.2 - As Partes são contratantes independentes, não resultando este instrumento na criação de qualquer sociedade, franquia, representação de vendas ou relações que não as expressamente previstas nestes Termos de Uso.
+
+#### 10.3 - Caso qualquer uma das cláusulas e condições destes Termos de Uso venha a ser declarada nula, no todo ou em parte, por qualquer motivo legal ou contratual, as demais cláusulas continuarão em pleno vigor e efeito.
