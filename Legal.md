@@ -10,7 +10,9 @@
 ## 1. Aceitação aos Termos de Uso
 
 #### 1.1 - Ao acessar e/ou usar os serviços da aplicação, sistemas de ticket, autenticação de scripts voltado ao Fivem, ofuscação de arquivos da linguagem Lua, e demais serviços oferecidos pelo Bot (“Serviços”), você concorda com os Termos de Uso, suas cláusulas e condições, conforme abaixo detalhadas.
+
 #### 1.2 - Você está autorizado a utilizar os Serviços de Combo's System (“Combo's System”) somente se você concorda com todas regras e condições estabelecidas nos Termos de Uso.
+
 #### 1.3 - Se você não concorda com estes Termos de Uso, você não está autorizado a acessar ou utilizar os Serviços oferecidos em nossa aplicação. A utilização dos Serviços de Combo's System (“Combo's System”) está expressamente condicionada ao seu consentimento às regras dos Termos de Uso.
 
 ## 2. Servidores Usuários e Assinantes
@@ -39,3 +41,18 @@
 
 #### 3.8 - **Consentimento de divulgação**: A Escola do Marketing Digital reserva-se o direito, a seu exclusivo critério, de suspender ou terminar o seu uso de nossa Plataforma e de nossos Serviços, de recusar todo e qualquer uso corrente ou futuro de todas ou algumas partes de nossa Plataforma e/ou Serviços.
 
+## 4. Condições Gerais de Uso dos Serviços
+
+#### 4.1 - Todos os direitos não previstos expressamente nestes Termos de Uso estão reservados a Combo's System.
+
+#### 4.2 - Você concorda que os Serviços são para o uso exclusivo do Servidor ao qual foi adicionado, Você não tem direitos de cópia ou reprodução no todo ou em parte, de qualquer parte dos Serviços de propriedade do Combo's System.
+
+#### 4.3 -  Além da licença limitada de uso estabelecida nestes Termos de Uso, você não tem qualquer outro direito, título ou propriedade sobre os Serviços. Você entende e reconhece que, em quaisquer circunstâncias, os seus direitos com relação ao Serviços serão limitados pelos direitos autorais aplicáveis e ainda por estes Termos de Uso.
+
+#### 4.4 - O Combo's System poderá modificar os Serviços e/ou Conteúdo ou descontinuar a sua disponibilidade a qualquer momento.
+
+#### 4.5 - Você é o único responsável pela obtenção, pagamento e manutenção de todos os serviços de telefonia, acesso à internet, plano de dados, tarifas e/ou outras taxas, mensalidades e custos associados ao seu acesso e uso dos Serviços, bem como pelo software, hardware de computador e outros equipamentos necessários para o uso e acesso aos Serviços.
+
+#### 4.6 - Não obstante outras disposições contidas nestes Termos de Uso, os Serviços estão disponíveis para seu uso por um período que começa a partir da adição do sistema ao seu Servidor.
+
+#### 4.7 - Você não deve tentar nem apoiar as tentativas de terceiros para driblar, reverter a engenharia, decodificar, decompilar, desmontar ou fraudar ou interferir de qualquer forma com aspectos dos Serviços. Você não deve distribuir, intercambiar, modificar, vender ou revender ou retransmitir a qualquer pessoa qualquer parte dos Serviços, incluindo, mas não se limitando, a qualquer texto, imagem ou áudio, para qualquer finalidade empresarial comercial ou pública. Você concorda em não copiar, vender, distribuir ou transferir o Conteúdo e/ou Serviços de Combo's System.
