@@ -132,4 +132,62 @@
 
 #### 3.5 - **Accessibility of Public Information**: Your Public Information can be accessed and published by any Bot systems, including within Public Areas.
 
-#### 3.6 - **License**: We do not claim ownership of Your Information. However, to authorize us to use your Public Information and to ensure that we do not violate any rights you may have in your Public Information
+#### 3.6 - **License**: We do not claim ownership of Your Information. However, to authorize us to use your Public Information and to ensure that we do not infringe any rights you may have in your Public Information, you grant Combo's System the non-exclusive, universal, royalty-free right in full , definitive, irrevocable and irreversible, to use, at any time, in Brazil and/or abroad and to exercise, commercialize and exploit all rights of copying, publicity, and database rights that you have on your Public Information, through any means known or created in the future, and for any purpose.
+
+#### 3.7 - **Disclosure Consent**: You understand and agree that our system may disclose Your Information if required to do so by law or in a good faith belief that such disclosure is reasonable and necessary to: (a ) cooperate with a court proceeding, a court order or legal process concerning us or our website; (b) enforce the Terms of Use; (c) respond with respect to the infringement of third party rights by Your Information; (d) protect the rights, property or personal safety of our system.
+
+#### 3.8 - **Disclosure Consent**: Escola do Marketing Digital reserves the right, in its sole discretion, to suspend or terminate your use of our Platform and Services, to refuse any and all current or future use of all or some parts of our Platform and/or Services.
+
+## 4. General Conditions of Use of the Services
+
+#### 4.1 - All rights not expressly provided for in these Terms of Use are reserved to Combo's System.
+
+#### 4.2 - You agree that the Services are for the exclusive use of the Server to which it has been added. You do not have any rights to copy or reproduce in whole or in part any part of the Services owned by Combo's System.
+
+#### 4.3 - Other than the limited license to use set forth in these Terms of Use, you have no other right, title or ownership in the Services. You understand and acknowledge that, in any circumstances, your rights with respect to the Services will be limited by applicable copyright and further by these Terms of Use.
+
+#### 4.4 - Combo's System may modify the Services and/or Content or discontinue their availability at any time.
+
+#### 4.5 - You are solely responsible for obtaining, paying and maintaining all telephone services, internet access, data plan, tariffs and/or other fees, monthly fees and costs associated with your access to and use of the Services , as well as the software, computer hardware and other equipment necessary for the use of and access to the Services.
+
+#### 4.6 - Notwithstanding other provisions contained in these Terms of Use, the Services are available for your use for a period commencing upon the system being added to your Server.
+
+#### 4.7 - You must not attempt or support attempts by any third party to circumvent, reverse engineer, decode, decompile, disassemble, defraud or otherwise interfere with aspects of the Services. You must not distribute, exchange, modify, sell, resell or retransmit to any person any part of the Services, including but not limited to any text, image or audio, for any commercial, commercial or public purpose. You agree not to copy, sell, distribute or transfer the Content and/or Services of Combo's System.
+
+## 5. Payment
+
+#### 5.1 - You agree to pay for the Service Plan contracted that is not made available free of charge by Combo's System.
+
+#### 5.2 - Right to change prices. Combo's System reserves the right to change published and offered prices without prior notice.
+
+#### 5.3 Refund Policy. Within 7 (seven) days after purchasing the service plan, in case of withdrawal from the contract, you can request cancellation. In this case, the refund will be made by Combo's System through the refund of the transfer sent, and for that you will need to have proof of your purchase, the time after the refund request, if within the requirements is up to 60 (sixty) days. No payment will be refundable when requested after 7 (seven) days from the date of purchase of the service plan.
+
+#### 5.4 - Renewal: The Combo's System application will notify those responsible for the Server (“responsible” are everyone who has the *Role* configured in the application to be identified as Server Staff) in the last 3 days of the duration of your plan , in addition to informing the plan's expiration date when purchasing the plan. With this expiration date in mind, you must open a ticket on our Server: Combo's Store (responsible for selling the system's private services), to request renewal. It is the responsibility and total responsibility of those responsible for the Server, to renew their plan of our system.
+
+#### 5.5 - Except as otherwise provided in these Terms of Use, no monthly fees, fees or expenses will be refundable.
+
+## 6. Warranties and Responsibilities
+
+#### 6.1 - Disclaimer of Warranties. You use our system at your own risk. It is offered to you “as is” and “as is available”. We disclaim warranties and conditions of any kind, whether express, implied or instituted, including but not limited to warranties relating to the safety, reliability, convenience and performance of the system. As well as for any information or advice received through any links displayed on our system. Furthermore, no advice or information, whether oral or written, obtained from you by us, shall create any kind of warranty.
+
+#### 6.2 - Risk Assumption. You understand and agree that by downloading or otherwise obtaining access to our material or data through the use of our system at your own discretion and risk and that you will be solely responsible for any damage to your computer or loss of data that results from downloading this material or data.
+
+## 7. Indemnity
+
+#### 7.1 - You agree to defend, indemnify and protect Combo's Store (responsible for Combo's System), its staff against any and all claims, loss, damage, liability, judgment, appraisal, fine, cost and other expenses, including attorneys' fees, resulting from or related to your use of the Services or any violation of the Terms of Use, use of the system, Your Information, violation of any law, statute, order or regulation, or third party rights and agrees to reimburse Combo's Store for any losses, costs and expenses it incurs as a result thereof.
+
+## 8. Termination
+
+#### 8.1 Combo's System reserves the right to terminate your Services plan and/or your access to the Services for breach of the Terms of Use. If your subscription and contracting of the Services are terminated, no payment, monthly fee , fee or expense will be refundable.
+
+## 9. Prohibition of Resale
+
+#### 9.1 - You agree not to reproduce, duplicate, copy, sell, resell or exploit for any commercial purposes any portion of the Combo's System, nor make use of the system or access thereto for the purpose of selling goods or services .
+
+## 10. General Provisions
+
+#### 10.1 - These Terms of Use constitute the entire agreement between the Parties with respect to the subject matter in question, and supersede all previous written or oral agreements.
+
+#### 10.2 - The Parties are independent contractors, and this instrument does not result in the creation of any partnership, franchise, sales representation or relationships other than those expressly provided for in these Terms of Use.
+
+#### 10.3 - If any of the clauses and conditions of these Terms of Use are declared void, in whole or in part, for any legal or contractual reason, the other clauses will continue in full force and effect.
