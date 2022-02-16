@@ -1,4 +1,4 @@
-# Termos de Uso
+# Termos de Uso - Português (PT-BR)
 
 #### O Combo's System apresenta os Termos de Uso (“Termos de Uso”) da sua aplicação (Bot) estabelecido no Discord (“Combo's System”), seu sistema e serviços estabelecidos nesse documento.
 
@@ -94,3 +94,42 @@
 #### 10.2 - As Partes são contratantes independentes, não resultando este instrumento na criação de qualquer sociedade, franquia, representação de vendas ou relações que não as expressamente previstas nestes Termos de Uso.
 
 #### 10.3 - Caso qualquer uma das cláusulas e condições destes Termos de Uso venha a ser declarada nula, no todo ou em parte, por qualquer motivo legal ou contratual, as demais cláusulas continuarão em pleno vigor e efeito.
+
+# Terms of use - English (EN-US)
+
+#### Combo's System presents the Terms of Use (“Terms of Use”) of its application (Bot) established in Discord (“Combo's System”), its system and services established in this document.
+
+#### We, the Bot developer team, reserve the right to change these Terms of Use at our discretion at any time. Any changes or modifications to this document will be effective immediately on the application (“Combo's System”). You are responsible for periodically reviewing the most current version of these Terms of Use.
+
+#### The Terms of Use and the Privacy Policy are valid for all users of our application.
+#### Your continued use of our services constitutes acceptance of any changes or modifications made to the Terms of Use.
+
+## 1. Acceptance of Terms of Use
+
+#### 1.1 - By accessing and/or using the services of the application, ticket systems, authentication of scripts aimed at Fivem, obfuscation of Lua language files, and other services offered by Bot ("Services"), you agree with the Terms of Use, its terms and conditions, as detailed below.
+
+#### 1.2 - You are authorized to use the Combo's System Services (“Combo's System”) only if you agree to all rules and conditions set forth in the Terms of Use.
+
+#### 1.3 - If you do not agree with these Terms of Use, you are not authorized to access or use the Services offered in our application. The use of Combo's System Services is expressly conditioned to your consent to the rules of the Terms of Use.
+
+## 2. Servers Users and Subscribers
+
+#### 2.1 - **Servers**: The use of the system's features is available to all Servers, without the need for contracts, signatures, or registrations, it is only necessary to add the application to the desired Server. To enjoy the private services reserved for Subscriber Servers, the Server must sign a monthly service contract plan. The word “Server” or “Servers” shall refer to any *Guild* (“Discord Term assigned to Discord user communities”), “User Server(s)” are those who enjoy public services, and have not purchased any private service plans.
+
+#### 2.2 - **Subscribing Servers**: anyone with [minimum age](https://support.discord.com/hc/pt-br/articles/360040724612-Por-que-o-Discord- is-asking-my-date-of-birth-) to use the Discord platform and founder or responsible of a Server can add the Bot, and subscribe to a monthly plan for that Server to obtain the private systems, it is worth mentioning that the acquisition of any plan is addressed solely and exclusively to Servers, and not to users of the platform.
+
+## 3. Public and Private Information
+
+#### 3.1 - **“Your Information”**: is defined as any information you give us (directly or indirectly), including through the use of different systems, data saved from your server while using functionality of our systems, application settings, registered scripts, registered licenses, uploaded files for obfuscation and application authentication (one of the services offered). You are solely responsible for Your Information, and we act as a passive conduit for the distribution and publication of your Public Information (as defined below).
+
+#### 3.2 - **“Public Information”**: configured information, such as server name, images sent for customization, configured payment methods, prefix for using the system, identification of *Roles* (positions or groups created in Discord communities), identification of *Channels* (text channels, voice, channel categories, or any other form of access referred to by Discord as *Channel*), or any other data provided in the system settings, are handled as Public Information, and even used by the Bot software, to refer to your server. Any data obtained with permission through the Discord API, (following the [Discord development terms of use](https://discord.com/developers/docs/legal)) is also considered public.
+
+#### 3.3 - **“Private Information”**: Any other part of Your Information that is not Public Information will be referred to as Private Information.
+
+#### 3.4 - **“Public Areas”**: are all areas within your Server, or Server where the bot was added.
+
+#### 3.4 - **“Private Areas”**: are the *DMs* (private chat in which the members are only two users) of the bot with a user.
+
+#### 3.5 - **Accessibility of Public Information**: Your Public Information can be accessed and published by any Bot systems, including within Public Areas.
+
+#### 3.6 - **License**: We do not claim ownership of Your Information. However, to authorize us to use your Public Information and to ensure that we do not violate any rights you may have in your Public Information
