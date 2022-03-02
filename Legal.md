@@ -2,7 +2,7 @@
 
 #### O Combo's System apresenta os Termos de Uso (“Termos de Uso”) da sua aplicação (Bot) estabelecido no Discord (“Combo's System”), seu sistema e serviços estabelecidos nesse documento.
 
-#### Nós, da equipe desenvolvedora do Bot, reservamos o direito de alterar estes Termos de Uso ao nosso critério, a qualquer momento. Qualquer alteração ou modificação deste documento entrará em vigor imediatamente na aplicação (“Combo's System”). Você é responsável por analisar periodicamente a versão mais atualizada destes Termos de Uso.
+#### Nós, da equipe desenvolvedora do Bot, reservamos o direito de alterar estes Termos de Uso ao nosso critério, a qualquer momento. Qualquer alteração ou modificação deste documento entrará em vigor imediatamente na aplicação (“Combo's System”). Você é responsável por analisar periodicamente a versão mais atualizada destes Termos de Uso. 
 
 #### Os Termos de Uso e a Política de Privacidade são válidos para todos os usuários da nossa aplicação.
 #### O uso contínuo dos nossos serviços constitui a aceitação de quaisquer alterações ou modificações feitas nos Termos de Uso.
