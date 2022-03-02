@@ -21,7 +21,7 @@
 
 #### 2.2 - **Servidores Assinantes**: qualquer pessoa com a [idade mínima](https://support.discord.com/hc/pt-br/articles/360040724612-Por-que-o-Discord-está-perguntando-minha-data-de-nascimento-) para utilizar a plataforma Discord e fundadora ou responsável de um Servidor pode adicionar o Bot, e assinar um plano mensal para aquele Servidor obter os sistemas privados, vale ressaltar que a aquisição de qualquer plano é dirigido unica, e exclusivamente a Servidores, e não a usuários da plataforma.
 
-## 3. Informações Públicas e Privadas
+## 3. Informações Públicas e Privadas 
 
 #### 3.1 - **“Suas Informações”**: são definidas como qualquer informação que você nos dê (direta ou indiretamente), inclusive através do uso dos diferentes sistemas, dados salvos de seu servidor enquanto utiliza funcionalidade dos nossos sistemas, configurações da aplicação, scripts registrados, licenças registradas, arquivos enviados para ofuscação e aplicação de autenticação (um dos serviços oferecidos). Você é o(a) único(a) responsável por Suas Informações, e nós agimos como um canal passivo para a distribuição e publicação de suas Informações Públicas (como definidas abaixo).
 
