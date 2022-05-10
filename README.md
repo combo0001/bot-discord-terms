@@ -1,5 +1,5 @@
 # bot-discord-terms
-
+ 
 ## Portuguese (PT-BR)
 Esse repositório guarda os termos de serviço/uso da aplicação para Discord: Combo's System ("Combo's System"), cujo os direitos autorais são reservados a Combo.
 
